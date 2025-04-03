@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: 2207813
 - Nombre: Marcos Jose Belfiore
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 2207795 
+- Nombre: Daniela Bautista
 
 
 ## Objetivos
